@@ -1,44 +1,44 @@
 const questions = [
     {
-        question: "What is the traditional attire for Gond women?",
+        question: "What is the other name of Exponential Form",
         answers: [
-            { text: "Jeans and T-shirts", correct: false },
-            { text: "Sari and Choli", correct: true },
-            { text: "Dhoti and Kurta", correct: false },
+            { text: "Law of Exponent", correct: false },
+            { text: "Notation of Exponent", correct: false },
+            { text: "Exponents and Power Notation", correct: false },
+            { text: "None of the above", correct: true },
+
+        ]
+    },
+    
+    {
+        question: "Convert the following number into scientific notation/ exponential form - 694200000.",
+        answers: [
+            { text: "69420 x 10", correct: false },
+            { text: "6.9 x 10^6", correct: false },
+            { text: "6.9 x 10^8", correct: true },
             { text: "None of the above", correct: false },
 
         ]
     },
     
     {
-        question: "Which material is commonly used for Gond Jewellery?",
+        question: "Which of the following are in exponential form?",
         answers: [
-            { text: "Gold and Platinum", correct: false },
-            { text: "Diamond and Gold", correct: false },
-            { text: "Silver and Aluminum", correct: true },
-            { text: "Pearls and Copper", correct: false },
+            { text: "9000 = 9 x 10^3", correct: false },
+            { text: "420690 = 4.2069 x 10^5", correct: false },
+            { text: "666.690 = 6.6669 x 10^4", correct: false },
+            { text: "Both Options (i) and (ii)", correct: true },
 
         ]
     },
     
     {
-        question: "What material are Gond toys typically made of?",
+        question: "What is the number having 100 zeros called?",
         answers: [
-            { text: "Metal and Glass", correct: false },
-            { text: "Plastic and Rubber", correct: false },
-            { text: "Wood, Clay and Bamboo", correct: true },
-            { text: "Paper and Cardboard", correct: false },
-
-        ]
-    },
-    
-    {
-        question: "Which of the following is made by the Bhattada section of the Gond Tribe?",
-        answers: [
-            { text: "Dokra Jewellery", correct: true },
-            { text: "Pearl Necklaces", correct: false },
-            { text: "Colorful Bangles", correct: false },
-            { text: "Gold Bracelets", correct: false },
+            { text: "Googol", correct: true },
+            { text: "Google", correct: false },
+            { text: "Pi", correct: false },
+            { text: "None of the above", correct: false },
 
         ]
     },
